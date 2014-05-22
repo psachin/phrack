@@ -1,0 +1,3 @@
+* phrack
+
+(modified)Codes from Phrack magazine.
